@@ -1,0 +1,7 @@
+D:\ProgramFiles\SteamLibrary\steamapps\common\Kebab it Up!\BepInEx\plugins\KebabInjector.dll
+D:\ProgramFiles\SteamLibrary\steamapps\common\Kebab it Up!\BepInEx\plugins\KebabInjector.pdb
+C:\Users\Blackjack\source\repos\KebabInjection\KebabInjection\obj\Debug\KebabInjector.csproj.AssemblyReference.cache
+C:\Users\Blackjack\source\repos\KebabInjection\KebabInjection\obj\Debug\KebabInjector.csproj.CoreCompileInputs.cache
+C:\Users\Blackjack\source\repos\KebabInjection\KebabInjection\obj\Debug\KebabInjector.csproj.CopyComplete
+C:\Users\Blackjack\source\repos\KebabInjection\KebabInjection\obj\Debug\KebabInjector.dll
+C:\Users\Blackjack\source\repos\KebabInjection\KebabInjection\obj\Debug\KebabInjector.pdb
