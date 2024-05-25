@@ -7,4 +7,4 @@ Currently the cheat includes :
  - Crazy cars 🏎
  - Generous Kebab 🌯
 
-![enter image description here](https://s2.ezgif.com/tmp/ezgif-2-6f1ad0e5d4.gif)
+![kebab mayhem](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBrcWg2MWg3cWgyaWttczhoYmpieXUzZW9wOW45ZWdjZnk2N2RnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GjYrdPBkQuMwT4p2J2/giphy-downsized-large.gif)
